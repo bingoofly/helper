@@ -1,6 +1,6 @@
 {
     "name": "bingoofly/helper",
-    "description": "one common  to helper",
+    "description": "演示的自己的一个包",
     "type": "library",
     "license": "MIT",
     "version": "dev-master",
