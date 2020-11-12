@@ -1,0 +1,22 @@
+{
+    "name": "bingoofly/helper",
+    "description": "one common  to helper",
+    "type": "library",
+    "license": "MIT",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "dockets",
+            "email": "2300738586@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bingoofly\\Helper\\": "src"
+        }
+    }
+}
